@@ -1,3 +1,3 @@
 # ansible_practice
 
-This is an Ansible practice repository
+This is my Ansible practice repository
